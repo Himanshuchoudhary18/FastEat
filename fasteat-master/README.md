@@ -21,13 +21,6 @@
 
 ![Fasteat Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-### Run Locally
-
-To run **Fasteat** locally, run this command on your git bash:
 
 ### Contact
 
