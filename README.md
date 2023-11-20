@@ -18,13 +18,6 @@ Git must be installed on your operating system.
 Run Locally
 To run Fasteat locally, run this command on your git bash:
 
-#**Linux and macOS:**
-
-sudo git clone https://github.com/codewithsadee/fasteat.git
-Windows:
-
-git clone https://github.com/codewithsadee/fasteat.git
-
 
 #Contact****
 
