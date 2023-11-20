@@ -7,6 +7,7 @@ Fasteat is a fully responsive food delivery website,
 Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ➥ Live Demo
+![image](https://github.com/Himanshuchoudhary18/FastEat/assets/38095683/082cff0c-68e6-4891-9635-4157fe418024)
 
 
 
